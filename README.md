@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ohsothere
-- 👀 I’m interested in C, JAVA
-- 🌱 I’m currently learning C
+- 👀 I’m interested in web developer
+- 🌱 I’m currently learning C, data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
